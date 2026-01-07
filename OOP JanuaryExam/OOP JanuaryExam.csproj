@@ -55,6 +55,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DeliveryRobot.cs" />
+    <Compile Include="HouseholdRobot.cs" />
+    <Compile Include="Robot.cs" />
+    <Compile Include="RobotEnums.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
